@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>14.jpg</file>
+    <file>448.jpg</file>
+    <file>address-book.png</file>
+    <file>clipboard.png</file>
+    <file>folder.png</file>
+    <file>info.png</file>
+    <file>profile.png</file>
+    <file>projects.png</file>
+    <file>shield.png</file>
+  </qresource>
+</RCC>
