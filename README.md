@@ -1,10 +1,9 @@
-# Kariyer_Sistemi_GUI
-Kariyer Sistemi Masaüstü Uygulaması
-Python kullanarak her bir kişinin kendine özel olarak kariyer planı yapabileceği, hedeflerini kaydedebileceği ve projelerini yazabileceği bir program oluşturdum.
-Arayüzünü PyQT5 kütüphanesi ve veritabanını ise SqLite kullanarak kodlamış olduğum proje yazılımının tamamı nesne tabanlıdır. Kişiye özel şifreleme özelliğiyle 
-her kullanıcı şifre oluşturabilir ve değiştirebilir. Hedeflerini ve projelerini kaydedip disiplinli bir yol almak isteyenler için ideal bir program.
+# Career System with GUI
+Career GUI Desktop Application with PYQT5
 
-![resim](https://github.com/mehmet-engineer/Kariyer_Sistemi_GUI/blob/master/a1.png)
-![resim](https://github.com/mehmet-engineer/Kariyer_Sistemi_GUI/blob/master/a2.png)
-![resim](https://github.com/mehmet-engineer/Kariyer_Sistemi_GUI/blob/master/a3.png)
-![resim](https://github.com/mehmet-engineer/Kariyer_Sistemi_GUI/blob/master/a4.png)
+Using Python, I created a program where each person can make a career plan, save their goals and write their projects. The entire project software, whose interface I have coded using the PyQT5 library and the database using SqLite, is object-based. With the personalized encryption feature, each user can create and change a password. It is an ideal program for those who want to save their goals and projects and take a disciplined path.
+
+![resim](https://github.com/mehmet-engineer/Career_System_GUI/blob/master/a1.png)
+![resim](https://github.com/mehmet-engineer/Career_System_GUI/blob/master/a2.png)
+![resim](https://github.com/mehmet-engineer/Career_System_GUI/blob/master/a3.png)
+![resim](https://github.com/mehmet-engineer/Career_System_GUI/blob/master/a4.png)
